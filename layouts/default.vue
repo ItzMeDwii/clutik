@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  created () {
+  mounted () {
     // eslint-disable-next-line no-console
     console.log('Created & Maintained by DwiiUnknown (https://dwii.my.id/).')
   }
